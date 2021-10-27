@@ -1980,6 +1980,14 @@ footer button {
     height: 48px;
 
 }
+.list{
+    color: !important white;
+}
 
+@media(max-width:  700px){
+    .left_white {
+       position: static;
+    }
+}
 
  
